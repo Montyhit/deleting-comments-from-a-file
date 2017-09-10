@@ -1,1 +1,1 @@
-Удаление комментариев из файла
+Deleting comments from a file
